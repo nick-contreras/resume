@@ -1,0 +1,6 @@
+# LaTeX working files
+*.aux
+*.out
+*.pdf
+*.synctex.gz
+*.log
